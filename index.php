@@ -12,7 +12,7 @@
 <body class="dark-theme">
   <div id="customCursor" class="fas fa-microchip cursor-color-1"></div>
   <div class="container text-center mt-5">
-    <h1 class="title-glow">Bienvenido a <span class="text-highlight">CodePlay</span></h1>
+    <h1 class="title-glow">Bienvenido a <span class="text-highlight">CodPlay</span></h1>
     <p class="lead typing-text">¡Explora el mundo de la programación con estilo y diversión!</p>
     <div id="time" class="time-clock"></div>
     <div class="mt-4">
