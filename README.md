@@ -1,8 +1,8 @@
-# codePlay
+# codPlay
 ![alt text](image.png)
 ## 🧠 Descripción
 
-**CodePlay** es una landing page interactiva inspirada en el universo de la programación, pensada para ofrecer una experiencia visual atractiva y dinámica, más allá de un simple portafolio.
+**CodPlay** es una landing page interactiva inspirada en el universo de la programación, pensada para ofrecer una experiencia visual atractiva y dinámica, más allá de un simple portafolio.
 
 Diseñada con una combinación de **HTML, CSS, JavaScript, PHP y Bootstrap**, esta página ofrece una interfaz profesional con elementos animados, efectos personalizados y funcionalidades interactivas que buscan captar la atención del visitante desde el primer momento.
 
