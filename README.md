@@ -1,5 +1,5 @@
 # codPlay
-![alt text](image.png)
+![alt text](image1.png)
 ## 🧠 Descripción
 
 **CodPlay** es una landing page interactiva inspirada en el universo de la programación, pensada para ofrecer una experiencia visual atractiva y dinámica, más allá de un simple portafolio.
